@@ -1,4 +1,4 @@
-# Introduction: Mastering Botspeak - The Nine Pillars of AI Fluency
+# Botspeak - The Nine Pillars of AI Fluency
 
 In an era where artificial intelligence systems increasingly shape our work and daily lives, developing AI Fluency—what we call "Botspeak"—has become as essential as digital literacy was at the dawn of the internet age. This book introduces a comprehensive framework for human-AI collaboration that goes beyond superficial tips and temporary techniques, presenting a cohesive set of cognitive tools that will remain relevant as AI technology evolves.
 
