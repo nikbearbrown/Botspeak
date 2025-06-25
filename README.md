@@ -1,3 +1,46 @@
+
+# Botspeak: A Framework for AI Fluency
+
+**Imagine a world where people work with bots.** That is increasingly the world we live in. Companies have already started hiring based not just on your skills but how your skills complement AI.
+
+Botspeak is a framework for effective human-AI collaboration in today's rapidly evolving landscape. As AI systems become more powerful, the gap between capability and usability continues to widen. Organizations adopt AI without clear strategies while individuals struggle with systems they don't fully understand.
+
+Botspeak bridges this gap with nine essential pillars that will remain relevant as AI evolves, rooted in philosophical skepticism that questions what AI can truly know and understand.
+
+## The Nine Pillars
+
+1. **Strategic Delegation:** Thoughtfully distributing tasks between human and AI based on comparative strengths. This means breaking complex problems into optimized components that play to each partner's abilities.
+
+2. **Effective Communication:** Crafting precise prompts with clear intent and context. It's about specifying exactly what you need from the AI system in a way it can understand and act upon.
+
+3. **Critical Evaluation:** Systematically assessing AI outputs for accuracy and bias. This means verifying claims through multiple sources and evaluating not just the answers, but the reasoning processes behind them.
+
+4. **Technical Understanding:** Applying appropriate prompt patterns and understanding model behavior. It means grasping the fundamentals of how large language models actually function beneath the surface.
+
+5. **Ethical Reasoning:** Maintaining accountability and managing privacy boundaries. It ensures transparency about AI involvement in your work and considers the broader impacts of your collaboration.
+
+6. **Stochastic Reasoning:** Understanding the probabilistic nature of AI outputs. It's developing comfort with variability and calibrating your confidence in different types of responses.
+
+7. **Learning by Doing:** Building intuition through deliberate practice. It encourages systematic analysis of both successes and failures to continuously improve your collaborative skills.
+
+8. **Rapid Prototyping:** Accelerating ideation and development through quick cycles of AI-assisted generation, feedback, and refinement, allowing you to explore multiple possibilities simultaneously.
+
+9. **Theoretical Foundations:** Understanding the science behind AI systems and recognizing their fundamental epistemological boundaries – what they can and cannot truly know.
+
+## Three Modes of Interaction
+
+The Botspeak framework applies across three fundamental modes of interaction:
+
+- **Automation:** Where AI performs specific tasks based on explicit human instructions.
+- **Augmentation:** Where humans and AI collaborate as thinking partners, each contributing their unique strengths.
+- **Agency:** Where AI works independently within parameters established by humans.
+
+While AI technology evolves rapidly, the core challenges of human-AI collaboration remain consistent. Botspeak provides lasting cognitive tools rather than temporary techniques.
+
+By mastering these nine pillars, you'll develop the skills to thrive in a future where human-AI collaboration becomes central to how we work, learn, and create – the new literacy for the age of artificial intelligence.
+
+**Learn Botspeak with Humanitarians AI**
+
 # Botspeak - The Nine Pillars of AI Fluency
 
 In an era where artificial intelligence systems increasingly shape our work and daily lives, developing AI Fluency—what we call "Botspeak"—has become as essential as digital literacy was at the dawn of the internet age. This book introduces a comprehensive framework for human-AI collaboration that goes beyond superficial tips and temporary techniques, presenting a cohesive set of cognitive tools that will remain relevant as AI technology evolves.
